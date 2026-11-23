@@ -2,7 +2,7 @@
 # 𐙚 About Me:
 Computer Science student with a growing interest in cybersecurity. Currently exploring different areas of the field, learning new technologies, and building projects along the way.<br><br>Curious by nature, always experimenting, and always looking to learn something new.
 
-## 𐙚 Socials:
+## 𑣲 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/InEs-Boudabbous) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inboudabbous@gmail.com)
 
