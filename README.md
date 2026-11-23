@@ -1,12 +1,12 @@
 
-# 💫 About Me:
+# 𐙚 About Me:
 Computer Science student with a growing interest in cybersecurity. Currently exploring different areas of the field, learning new technologies, and building projects along the way.<br><br>Curious by nature, always experimenting, and always looking to learn something new.
 
-## 🌐 Socials:
+## 𐙚 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/InEs-Boudabbous) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inboudabbous@gmail.com)
 
-# 💻 Tech Stack:
+# 𐙚 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
@@ -22,7 +22,7 @@ Computer Science student with a growing interest in cybersecurity. Currently exp
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-# 📊 GitHub Stats:
+# 𐙚 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=ines2005lol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ines2005lol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
